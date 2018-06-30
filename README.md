@@ -1,2 +1,2 @@
 # Python-Training
-# Stackskills "Python for Beginners 2017"
+Stackskills "Python for Beginners 2017"
